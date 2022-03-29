@@ -5,5 +5,5 @@
 ## 3. 2022FJCU_金融大數據作業彙整
 
 ```python
-
+share my stupid work for your reference.
 ```
